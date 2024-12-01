@@ -13,7 +13,7 @@ def hello_world():
 
 
 
-# no ambiente de produção não precisa colocar o debug.
+
 #if __name__ == '__main__':
 #   app.run(debug=True)
 #
